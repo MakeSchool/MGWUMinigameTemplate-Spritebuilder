@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>characterAny/all_hand_left.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1893, 425}, {42, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{29, 29}, {42, 42}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>characterAny/any_foot_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{947, 213}, {52, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 6}, {52, 24}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/any_foot_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{700, 426}, {52, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 6}, {52, 24}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/any_foot_iso.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1731, 420}, {52, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {52, 34}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/any_head_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{484, 394}, {156, 214}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{45, 3}, {156, 214}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/any_head_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1413, 218}, {156, 214}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{45, 3}, {156, 214}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/any_head_side.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1849, 209}, {168, 214}}</string>
+			<key>offset</key>
+			<string>{6, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{45, 3}, {168, 214}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/any_head_top.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{979, 185}, {215, 215}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 3}, {215, 215}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/blue_foot_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{703, 207}, {53, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {53, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/blue_foot_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{703, 372}, {52, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 5}, {52, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/blue_foot_iso.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1839, 425}, {52, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {52, 34}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/blue_head_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1197, 1}, {182, 216}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{32, 2}, {182, 216}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/blue_head_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{979, 1}, {182, 216}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{32, 2}, {182, 216}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/blue_head_side.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{484, 207}, {185, 217}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{29, 1}, {185, 217}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/blue_head_top.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1196, 185}, {215, 215}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 3}, {215, 215}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/green_foot_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{703, 317}, {53, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {53, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/green_foot_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2019, 319}, {53, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {53, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/green_foot_iso.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1785, 420}, {52, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {52, 34}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/green_head_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1629, 218}, {206, 200}}</string>
+			<key>offset</key>
+			<string>{0, -7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 17}, {206, 200}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/green_head_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1413, 376}, {206, 200}}</string>
+			<key>offset</key>
+			<string>{0, -7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 17}, {206, 200}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/green_head_side.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1849, 1}, {206, 195}}</string>
+			<key>offset</key>
+			<string>{4, -9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{24, 22}, {206, 195}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/green_head_top.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1632, 1}, {215, 215}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 3}, {215, 215}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/purple_foot_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{703, 262}, {53, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {53, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/purple_foot_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2019, 264}, {53, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {53, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/purple_foot_iso.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1676, 420}, {53, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {53, 34}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/purple_head_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{737, 1}, {240, 210}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 7}, {240, 210}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/purple_head_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 207}, {240, 210}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 7}, {240, 210}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/purple_head_side.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{243, 207}, {239, 210}}</string>
+			<key>offset</key>
+			<string>{-1, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 7}, {239, 210}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/purple_head_top.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{730, 213}, {215, 215}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 3}, {215, 215}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/red_foot_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2019, 374}, {53, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {53, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/red_foot_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2019, 209}, {53, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {53, 25}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/red_foot_iso.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1621, 420}, {53, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {53, 34}}</string>
+			<key>sourceSize</key>
+			<string>{56, 36}</string>
+		</dict>
+		<key>characterAny/red_head_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{492, 1}, {243, 204}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 13}, {243, 204}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/red_head_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{247, 1}, {243, 204}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 13}, {243, 204}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/red_head_side.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {244, 204}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 13}, {244, 204}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+		<key>characterAny/red_head_top.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1415, 1}, {215, 215}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 3}, {215, 215}}</string>
+			<key>sourceSize</key>
+			<string>{246, 220}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>characterAny.png</string>
+	</dict>
+</dict>
+</plist>
