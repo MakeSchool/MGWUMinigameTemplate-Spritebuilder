@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>characterAny/all_hand_left.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{49, 221}, {22, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 14}, {22, 22}}</string>
+			<key>sourceSize</key>
+			<string>{50, 50}</string>
+		</dict>
+		<key>characterAny/any_foot_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{21, 221}, {26, 12}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {26, 12}}</string>
+			<key>sourceSize</key>
+			<string>{28, 18}</string>
+		</dict>
+		<key>characterAny/any_foot_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{35, 221}, {26, 12}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {26, 12}}</string>
+			<key>sourceSize</key>
+			<string>{28, 18}</string>
+		</dict>
+		<key>characterAny/any_foot_iso.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 221}, {26, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {26, 18}}</string>
+			<key>sourceSize</key>
+			<string>{28, 18}</string>
+		</dict>
+		<key>characterAny/any_head_back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{111, 1}, {79, 108}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{22, 1}, {79, 108}}</string>
+			<key>sourceSize</key>
+			<string>{123, 110}</string>
+		</dict>
+		<key>characterAny/any_head_front.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{88, 111}, {79, 108}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{22, 1}, {79, 108}}</string>
+			<key>sourceSize</key>
+			<string>{123, 110}</string>
+		</dict>
+		<key>characterAny/any_head_side.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 111}, {85, 108}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{22, 1}, {85, 108}}</string>
+			<key>sourceSize</key>
+			<string>{123, 110}</string>
+		</dict>
+		<key>characterAny/any_head_top.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {108, 108}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 1}, {108, 108}}</string>
+			<key>sourceSize</key>
+			<string>{123, 110}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>characterAny.png</string>
+	</dict>
+</dict>
+</plist>
