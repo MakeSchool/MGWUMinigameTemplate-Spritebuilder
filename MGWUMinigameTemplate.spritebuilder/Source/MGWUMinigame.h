@@ -13,6 +13,7 @@
 @interface MGWUMinigame : CCScene
 
 @property (nonatomic,retain) MGWUCharacter *character;
+@property (nonatomic, copy) NSString *instructions;
 
 -(void)endMinigameWithScore:(uint)$score;
 

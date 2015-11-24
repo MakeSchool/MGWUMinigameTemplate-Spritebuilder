@@ -10,8 +10,8 @@
 	<key>spriteFrameFiles</key>
 	<array>
 		<string>enemies.plist</string>
-		<string>items.plist</string>
 		<string>characterAny.plist</string>
+		<string>items.plist</string>
 	</array>
 </dict>
 </plist>
