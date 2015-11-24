@@ -10,7 +10,11 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
+<<<<<<< HEAD
 	<integer>21</integer>
+=======
+	<integer>27</integer>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -18959,8 +18963,13 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
+<<<<<<< HEAD
 							<real>0.10000000149011612</real>
 							<real>0.30000001192092896</real>
+=======
+							<real>0.05000000074505806</real>
+							<real>0.80000001192092896</real>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 							<integer>0</integer>
 							<integer>2</integer>
 							<integer>2</integer>
@@ -21705,8 +21714,13 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
+<<<<<<< HEAD
 							<real>0.89999997615814209</real>
 							<real>0.30000001192092896</real>
+=======
+							<real>0.94999998807907104</real>
+							<real>0.80000001192092896</real>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 							<integer>0</integer>
 							<integer>2</integer>
 							<integer>2</integer>
@@ -21872,8 +21886,11 @@
 				</array>
 			</dict>
 		</array>
+<<<<<<< HEAD
 		<key>selected</key>
 		<true/>
+=======
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 	</dict>
 	<key>notes</key>
 	<array/>
@@ -22757,7 +22774,11 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
+<<<<<<< HEAD
 			<real>0.3333333432674408</real>
+=======
+			<real>0.0</real>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>

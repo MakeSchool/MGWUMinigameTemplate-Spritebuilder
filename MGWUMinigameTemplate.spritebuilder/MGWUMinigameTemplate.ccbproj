@@ -98,6 +98,104 @@
 		</dict>
 		<key>Sprites</key>
 		<dict/>
+<<<<<<< HEAD
+=======
+		<key>backgrounds/backgroundsBubbles</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsCardboard1</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsCardboard2</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsCity</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsCubes</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsMisc1</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsMisc2</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsSpace</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgrounds/backgroundsWater</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsBubbles</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsCardboard1</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsCardboard2</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsCity</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsCubes</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsMisc1</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsMisc2</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsSky</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsSpace</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>backgroundsWater</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 		<key>ccbResources</key>
 		<dict>
 			<key>previewFolderHidden</key>
@@ -185,16 +283,40 @@
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
+<<<<<<< HEAD
+=======
+		<key>characters</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 		<key>enemies</key>
 		<dict>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
+<<<<<<< HEAD
+=======
+		<key>environment</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 		<key>items</key>
 		<dict>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
+<<<<<<< HEAD
+=======
+		<key>tiles</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 	</dict>
 	<key>versionStr</key>
 	<string>Version: 1.1.0

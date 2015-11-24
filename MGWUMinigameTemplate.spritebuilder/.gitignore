@@ -40,4 +40,8 @@ xcuserdata
 *.sconsign.dblite
 *.pyc
 *.orig
+<<<<<<< HEAD
 *.ninja_log
+=======
+*.ninja_log
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44

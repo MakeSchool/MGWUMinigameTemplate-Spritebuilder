@@ -9,9 +9,27 @@
 	</dict>
 	<key>spriteFrameFiles</key>
 	<array>
+<<<<<<< HEAD
 		<string>enemies.plist</string>
 		<string>characterAny.plist</string>
 		<string>items.plist</string>
+=======
+		<string>backgroundsMisc2.plist</string>
+		<string>characterAny.plist</string>
+		<string>backgroundsCubes.plist</string>
+		<string>items.plist</string>
+		<string>characters.plist</string>
+		<string>backgroundsCardboard2.plist</string>
+		<string>backgroundsWater.plist</string>
+		<string>tiles.plist</string>
+		<string>backgroundsCardboard1.plist</string>
+		<string>backgroundsSpace.plist</string>
+		<string>backgroundsBubbles.plist</string>
+		<string>backgroundsMisc1.plist</string>
+		<string>backgroundsCity.plist</string>
+		<string>enemies.plist</string>
+		<string>environment.plist</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 	</array>
 </dict>
 </plist>

@@ -7,7 +7,11 @@
 		<key>characterAny/all_hand_left.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{1928, 546}, {82, 82}}</string>
+=======
+			<string>{{120, 863}, {82, 82}}</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -20,11 +24,19 @@
 		<key>characterAny/any_foot_back.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{1394, 516}, {104, 48}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
 			<true/>
+=======
+			<string>{{1, 969}, {104, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>sourceColorRect</key>
 			<string>{{4, 12}, {104, 48}}</string>
 			<key>sourceSize</key>
@@ -33,7 +45,11 @@
 		<key>characterAny/any_foot_front.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{1394, 410}, {104, 48}}</string>
+=======
+			<string>{{70, 863}, {104, 48}}</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -46,11 +62,19 @@
 		<key>characterAny/any_foot_iso.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{1943, 70}, {104, 67}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
 			<false/>
+=======
+			<string>{{1, 863}, {104, 67}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>sourceColorRect</key>
 			<string>{{4, 3}, {104, 67}}</string>
 			<key>sourceSize</key>
@@ -59,7 +83,11 @@
 		<key>characterAny/any_head_back.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{1669, 788}, {311, 428}}</string>
+=======
+			<string>{{433, 1}, {311, 428}}</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -72,7 +100,11 @@
 		<key>characterAny/any_head_front.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{1669, 1218}, {311, 428}}</string>
+=======
+			<string>{{337, 433}, {311, 428}}</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -85,11 +117,19 @@
 		<key>characterAny/any_head_side.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{433, 1264}, {334, 428}}</string>
 			<key>offset</key>
 			<string>{12, 0}</string>
 			<key>rotated</key>
 			<true/>
+=======
+			<string>{{1, 433}, {334, 428}}</string>
+			<key>offset</key>
+			<string>{12, 0}</string>
+			<key>rotated</key>
+			<false/>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>sourceColorRect</key>
 			<string>{{91, 6}, {334, 428}}</string>
 			<key>sourceSize</key>
@@ -98,6 +138,7 @@
 		<key>characterAny/any_head_top.png</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< HEAD
 			<string>{{1, 1203}, {430, 430}}</string>
 			<key>offset</key>
 			<string>{-1, -1}</string>
@@ -463,6 +504,9 @@
 		<dict>
 			<key>frame</key>
 			<string>{{960, 776}, {430, 430}}</string>
+=======
+			<string>{{1, 1}, {430, 430}}</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 			<key>offset</key>
 			<string>{-1, -1}</string>
 			<key>rotated</key>
@@ -478,7 +522,11 @@
 		<key>format</key>
 		<integer>2</integer>
 		<key>size</key>
+<<<<<<< HEAD
 		<string>{2048, 2048}</string>
+=======
+		<string>{1024, 1024}</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 		<key>textureFileName</key>
 		<string>characterAny.png</string>
 	</dict>

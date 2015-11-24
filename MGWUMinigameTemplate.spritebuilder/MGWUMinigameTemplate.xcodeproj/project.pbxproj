@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
+=======
+		65400FAB19743FE200EDBBED /* MGWUMinigameInstructions.m in Sources */ = {isa = PBXBuildFile; fileRef = 65400FAA19743FE200EDBBED /* MGWUMinigameInstructions.m */; };
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 		B71F5911188484E7003F4D28 /* iPad-old.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5907188484E7003F4D28 /* iPad-old.png */; };
 		B71F5912188484E7003F4D28 /* iPad-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5908188484E7003F4D28 /* iPad-old@2x.png */; };
 		B71F5913188484E7003F4D28 /* iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5909188484E7003F4D28 /* iPad.png */; };
@@ -60,6 +64,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
+=======
+		65400FA919743FE200EDBBED /* MGWUMinigameInstructions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGWUMinigameInstructions.h; path = Source/MGWUMinigameInstructions.h; sourceTree = "<group>"; };
+		65400FAA19743FE200EDBBED /* MGWUMinigameInstructions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MGWUMinigameInstructions.m; path = Source/MGWUMinigameInstructions.m; sourceTree = "<group>"; };
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 		B71F5907188484E7003F4D28 /* iPad-old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old.png"; path = "Icons/iPad-old.png"; sourceTree = "<group>"; };
 		B71F5908188484E7003F4D28 /* iPad-old@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old@2x.png"; path = "Icons/iPad-old@2x.png"; sourceTree = "<group>"; };
 		B71F5909188484E7003F4D28 /* iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPad.png; path = Icons/iPad.png; sourceTree = "<group>"; };
@@ -235,6 +244,11 @@
 		ED03BBDE1942561F00E23822 /* Backend */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
+=======
+				65400FA919743FE200EDBBED /* MGWUMinigameInstructions.h */,
+				65400FAA19743FE200EDBBED /* MGWUMinigameInstructions.m */,
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 				ED5C0B7819479739000453EC /* MGWUCharacter.h */,
 				ED5C0B7919479739000453EC /* MGWUCharacter.m */,
 				ED03BBDF1942563A00E23822 /* MGWUMinigame.h */,
@@ -351,6 +365,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED03BBE31942563A00E23822 /* MGWUMinigame.m in Sources */,
+<<<<<<< HEAD
+=======
+				65400FAB19743FE200EDBBED /* MGWUMinigameInstructions.m in Sources */,
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 				ED5C0B7A19479739000453EC /* MGWUCharacter.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
 				ED03BBE71942587100E23822 /* MyMinigame.m in Sources */,

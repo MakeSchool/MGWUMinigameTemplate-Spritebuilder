@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tiles/tile_metal_blue_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 661}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 661}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1579, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1717}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1189}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1453}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1171}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 793}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 775}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1435}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1189}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_blue_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1183, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1585}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1447, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1057}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1183, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1057}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1711, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 907}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1711, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1717}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1435}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_green_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1843, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1189}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1849}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1831}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{787, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1447, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1321}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 925}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 529}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 397}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1699}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1585}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1171}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 529}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{919, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_pink_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 661}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{787, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1585}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 925}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1183, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 529}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{787, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 793}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1315, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 793}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_purple_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 397}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1303}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1039}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1567}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1453}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1039}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 397}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{919, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1849}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 925}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1321}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1699}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 775}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1843, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_red_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1321}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 397}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 1849}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 1453}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 907}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1579, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{919, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{523, 265}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1315, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 133}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1717}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1567}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1057}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 1303}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 529}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_metal_teal_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1831}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+		<key>tiles/tile_sand_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>tiles/tile_sand_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 259}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>tiles/tile_sand_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 517}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>tiles.png</string>
+	</dict>
+</dict>
+</plist>

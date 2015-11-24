@@ -10,7 +10,11 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
+<<<<<<< HEAD
 	<integer>9</integer>
+=======
+	<integer>13</integer>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -58,7 +62,11 @@
 						<key>customClass</key>
 						<string></string>
 						<key>displayName</key>
+<<<<<<< HEAD
 						<string>UIDMyCharacter</string>
+=======
+						<string>MyCharacter</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 						<key>memberVarAssignmentName</key>
 						<string>_character</string>
 						<key>memberVarAssignmentType</key>
@@ -109,6 +117,11 @@
 								<string>MyCharacter.ccb</string>
 							</dict>
 						</array>
+<<<<<<< HEAD
+=======
+						<key>selected</key>
+						<true/>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -663,8 +676,11 @@
 				</array>
 			</dict>
 		</array>
+<<<<<<< HEAD
 		<key>selected</key>
 		<true/>
+=======
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 	</dict>
 	<key>notes</key>
 	<array/>

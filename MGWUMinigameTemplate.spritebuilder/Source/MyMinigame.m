@@ -12,13 +12,22 @@
 -(id)init {
     if ((self = [super init])) {
         // Initialize any arrays, dictionaries, etc in here
+<<<<<<< HEAD
         self.instructions = @"Put your game instructions here!";
+=======
+        self.instructions = @"These are the game instructions :D";
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
     }
     return self;
 }
 
 -(void)didLoadFromCCB {
     // Set up anything connected to Sprite Builder here
+<<<<<<< HEAD
+=======
+    
+    // We're calling a public method of the character that tells it to jump!
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
     [self.hero jump];
 }
 
@@ -34,6 +43,11 @@
 }
 
 -(void)endMinigame {
+<<<<<<< HEAD
+=======
+    // Be sure you call this method when you end your minigame!
+    // Of course you won't have a random score, but your score *must* be between 1 and 100 inclusive
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
     [self endMinigameWithScore:arc4random()%100 + 1];
 }
 

@@ -5,6 +5,10 @@
 //  Created by Zachary Barryte on 6/10/14.
 //  Copyright (c) 2014 Apportable. All rights reserved.
 //
+<<<<<<< HEAD
+=======
+//  DO NOT MODIFY
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 
 #import "MGWUCharacter.h"
 
@@ -41,8 +45,14 @@
 -(NSString *)stringCharacter {
     return (_characterType == kCharacterRed ? @"red" :
             (_characterType == kCharacterGreen ? @"green" :
+<<<<<<< HEAD
              (_characterType == kCharacterPurple ? @"purple" :
               (_characterType == kCharacterBlue ? @"blue" : nil))));
+=======
+             (_characterType == kCharacterPink ? @"pink" :
+              (_characterType == kCharacterTeal ? @"teal" :
+               (_characterType == kCharacterBlue ? @"blue" : nil)))));
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 }
 
 -(NSString *)stringOrientationForOrientation:(tCharacterOrientation)$characterOrientation {
@@ -54,10 +64,17 @@
 }
 
 -(NSString *)fileNameForCharacterHeadForOrientation:(tCharacterOrientation)$characterOrientation {
+<<<<<<< HEAD
     return [NSString stringWithFormat:@"characterAny/%@_head_%@.png",[self stringCharacter],[self stringOrientationForOrientation:$characterOrientation]];
 }
 -(NSString *)fileNameForCharacterFootForOrientation:(tCharacterOrientation)$characterOrientation {
     return [NSString stringWithFormat:@"characterAny/%@_foot_%@.png",[self stringCharacter],[self stringOrientationForOrientation:$characterOrientation]];
+=======
+    return [NSString stringWithFormat:@"characters/%@_head_%@.png",[self stringCharacter],[self stringOrientationForOrientation:$characterOrientation]];
+}
+-(NSString *)fileNameForCharacterFootForOrientation:(tCharacterOrientation)$characterOrientation {
+    return [NSString stringWithFormat:@"characters/%@_foot_%@.png",[self stringCharacter],[self stringOrientationForOrientation:$characterOrientation]];
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 }
 
 @end

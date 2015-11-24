@@ -11,8 +11,14 @@
 typedef enum {
     kCharacterRed,
     kCharacterGreen,
+<<<<<<< HEAD
     kCharacterPurple,
     kCharacterBlue,
+=======
+    kCharacterPink,
+    kCharacterBlue,
+    kCharacterTeal,
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
     kCharacterMax
 } tCharacterType;
 
@@ -24,12 +30,15 @@ typedef enum {
     kIso,
 } tCharacterOrientation;
 
+<<<<<<< HEAD
 static NSString *const kAnimIsoIdling = @"AnimIsoIdling";
 static NSString *const kAnimIsoJump = @"AnimIsoJump";
 static NSString *const kAnimIsoJumping = @"AnimIsoJumping";
 static NSString *const kAnimIsoFalling = @"AnimIsoFalling";
 static NSString *const kAnimIsoLand = @"AnimIsoLand";
 
+=======
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 @interface MGWUCharacter : CCNode
 
 @property (nonatomic,assign) tCharacterType characterType;

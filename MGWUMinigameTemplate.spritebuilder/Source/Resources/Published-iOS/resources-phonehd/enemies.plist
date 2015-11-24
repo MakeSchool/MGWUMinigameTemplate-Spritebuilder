@@ -3,13 +3,516 @@
 <plist version="1.0">
 <dict>
 	<key>frames</key>
+<<<<<<< HEAD
 	<dict/>
+=======
+	<dict>
+		<key>enemies/bolt_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{242, 826}, {161, 217}}</string>
+			<key>offset</key>
+			<string>{-1, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 25}, {161, 217}}</string>
+			<key>sourceSize</key>
+			<string>{196, 257}</string>
+		</dict>
+		<key>enemies/bolt_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 826}, {161, 217}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 25}, {161, 217}}</string>
+			<key>sourceSize</key>
+			<string>{196, 257}</string>
+		</dict>
+		<key>enemies/crab_claw_bottom_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 1045}, {86, 81}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{7, 4}, {86, 81}}</string>
+			<key>sourceSize</key>
+			<string>{100, 90}</string>
+		</dict>
+		<key>enemies/crab_claw_top_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{370, 1223}, {105, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {105, 126}}</string>
+			<key>sourceSize</key>
+			<string>{110, 130}</string>
+		</dict>
+		<key>enemies/crab_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 1}, {144, 150}}</string>
+			<key>offset</key>
+			<string>{0, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18, 2}, {144, 150}}</string>
+			<key>sourceSize</key>
+			<string>{180, 156}</string>
+		</dict>
+		<key>enemies/crab_leg_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{198, 527}, {60, 58}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 2}, {60, 58}}</string>
+			<key>sourceSize</key>
+			<string>{70, 62}</string>
+		</dict>
+		<key>enemies/crab_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{358, 1330}, {178, 149}}</string>
+			<key>offset</key>
+			<string>{5, -20}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{17, 42}, {178, 149}}</string>
+			<key>sourceSize</key>
+			<string>{203, 193}</string>
+		</dict>
+		<key>enemies/eggy_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1362}, {185, 205}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{12, 7}, {185, 205}}</string>
+			<key>sourceSize</key>
+			<string>{209, 215}</string>
+		</dict>
+		<key>enemies/eggy_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{183, 1123}, {185, 205}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{12, 5}, {185, 205}}</string>
+			<key>sourceSize</key>
+			<string>{209, 215}</string>
+		</dict>
+		<key>enemies/gobi_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{245, 1760}, {168, 187}}</string>
+			<key>offset</key>
+			<string>{2, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 18}, {168, 187}}</string>
+			<key>sourceSize</key>
+			<string>{195, 218}</string>
+		</dict>
+		<key>enemies/gobi_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{188, 1330}, {168, 187}}</string>
+			<key>offset</key>
+			<string>{2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {168, 187}}</string>
+			<key>sourceSize</key>
+			<string>{195, 218}</string>
+		</dict>
+		<key>enemies/kettle_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{405, 787}, {175, 176}}</string>
+			<key>offset</key>
+			<string>{1, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 12}, {175, 176}}</string>
+			<key>sourceSize</key>
+			<string>{207, 202}</string>
+		</dict>
+		<key>enemies/kettle_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{370, 1045}, {175, 176}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 17}, {175, 176}}</string>
+			<key>sourceSize</key>
+			<string>{207, 202}</string>
+		</dict>
+		<key>enemies/kingCrab_arm_middle_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1774}, {110, 200}}</string>
+			<key>offset</key>
+			<string>{8, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 3}, {110, 200}}</string>
+			<key>sourceSize</key>
+			<string>{140, 206}</string>
+		</dict>
+		<key>enemies/kingCrab_arm_top_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1569}, {203, 138}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {203, 138}}</string>
+			<key>sourceSize</key>
+			<string>{210, 144}</string>
+		</dict>
+		<key>enemies/kingCrab_claw_bottom_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{162, 1045}, {114, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 2}, {114, 76}}</string>
+			<key>sourceSize</key>
+			<string>{120, 80}</string>
+		</dict>
+		<key>enemies/kingCrab_claw_top_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{503, 436}, {145, 134}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 3}, {145, 134}}</string>
+			<key>sourceSize</key>
+			<string>{150, 140}</string>
+		</dict>
+		<key>enemies/kingCrab_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{141, 1569}, {174, 189}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {174, 189}}</string>
+			<key>sourceSize</key>
+			<string>{178, 193}</string>
+		</dict>
+		<key>enemies/kingCrab_leg_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 527}, {60, 58}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 5}, {60, 58}}</string>
+			<key>sourceSize</key>
+			<string>{70, 68}</string>
+		</dict>
+		<key>enemies/kingGobi_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{300, 228}, {149, 223}}</string>
+			<key>offset</key>
+			<string>{2, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 12}, {149, 223}}</string>
+			<key>sourceSize</key>
+			<string>{195, 243}</string>
+		</dict>
+		<key>enemies/kingGobi_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 1}, {108, 223}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{46, 9}, {108, 223}}</string>
+			<key>sourceSize</key>
+			<string>{195, 243}</string>
+		</dict>
+		<key>enemies/mummy_body_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 599}, {76, 268}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 6}, {76, 268}}</string>
+			<key>sourceSize</key>
+			<string>{80, 280}</string>
+		</dict>
+		<key>enemies/mummy_hand_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{258, 527}, {46, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {46, 46}}</string>
+			<key>sourceSize</key>
+			<string>{50, 50}</string>
+		</dict>
+		<key>enemies/pharoah_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {190, 297}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 4}, {190, 297}}</string>
+			<key>sourceSize</key>
+			<string>{200, 306}</string>
+		</dict>
+		<key>enemies/pharoah_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 300}, {135, 297}}</string>
+			<key>offset</key>
+			<string>{-11, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 4}, {135, 297}}</string>
+			<key>sourceSize</key>
+			<string>{162, 306}</string>
+		</dict>
+		<key>enemies/plug_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{459, 575}, {137, 171}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 12}, {137, 171}}</string>
+			<key>sourceSize</key>
+			<string>{174, 192}</string>
+		</dict>
+		<key>enemies/plug_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{621, 209}, {138, 170}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 11}, {138, 170}}</string>
+			<key>sourceSize</key>
+			<string>{174, 192}</string>
+		</dict>
+		<key>enemies/popper_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{451, 226}, {208, 168}}</string>
+			<key>offset</key>
+			<string>{-1, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{29, 60}, {208, 168}}</string>
+			<key>sourceSize</key>
+			<string>{269, 269}</string>
+		</dict>
+		<key>enemies/popper_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{261, 575}, {210, 196}}</string>
+			<key>offset</key>
+			<string>{3, -11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{32, 47}, {210, 196}}</string>
+			<key>sourceSize</key>
+			<string>{269, 269}</string>
+		</dict>
+		<key>enemies/puffer_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317, 1519}, {183, 181}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{42, 47}, {183, 181}}</string>
+			<key>sourceSize</key>
+			<string>{269, 269}</string>
+		</dict>
+		<key>enemies/puffer_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{465, 1}, {206, 188}}</string>
+			<key>offset</key>
+			<string>{7, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{38, 40}, {206, 188}}</string>
+			<key>sourceSize</key>
+			<string>{269, 269}</string>
+		</dict>
+		<key>enemies/screw_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{193, 1}, {160, 225}}</string>
+			<key>offset</key>
+			<string>{1, -6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 22}, {160, 225}}</string>
+			<key>sourceSize</key>
+			<string>{196, 257}</string>
+		</dict>
+		<key>enemies/screw_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 300}, {160, 225}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 18}, {160, 225}}</string>
+			<key>sourceSize</key>
+			<string>{196, 257}</string>
+		</dict>
+		<key>enemies/spinner_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{113, 1774}, {130, 195}}</string>
+			<key>offset</key>
+			<string>{1, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{13, 16}, {130, 195}}</string>
+			<key>sourceSize</key>
+			<string>{155, 219}</string>
+		</dict>
+		<key>enemies/spinner_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{306, 453}, {120, 195}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 14}, {120, 195}}</string>
+			<key>sourceSize</key>
+			<string>{155, 219}</string>
+		</dict>
+		<key>enemies/staff_blue_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 869}, {76, 264}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {76, 264}}</string>
+			<key>sourceSize</key>
+			<string>{80, 268}</string>
+		</dict>
+		<key>enemies/vortex_front_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 599}, {180, 225}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{12, 16}, {180, 225}}</string>
+			<key>sourceSize</key>
+			<string>{205, 252}</string>
+		</dict>
+		<key>enemies/vortex_side_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1135}, {180, 225}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{12, 17}, {180, 225}}</string>
+			<key>sourceSize</key>
+			<string>{205, 252}</string>
+		</dict>
+	</dict>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 	<key>metadata</key>
 	<dict>
 		<key>format</key>
 		<integer>2</integer>
 		<key>size</key>
+<<<<<<< HEAD
 		<string>{8, 8}</string>
+=======
+		<string>{2048, 2048}</string>
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 		<key>textureFileName</key>
 		<string>enemies.png</string>
 	</dict>

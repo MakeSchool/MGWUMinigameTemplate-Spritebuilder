@@ -14,6 +14,10 @@
 
 -(void)endMinigameWithScore:(uint)$score {
     [[CCDirector sharedDirector] popScene];
+<<<<<<< HEAD
+=======
+    [[CCDirector sharedDirector] popScene];
+>>>>>>> 744f1f3d1a402dd54fbb9a3b62402d39d1429b44
 }
 
 @end
